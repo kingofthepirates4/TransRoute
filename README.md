@@ -63,5 +63,5 @@ TransRoute is organized into three main components:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/TransRoute.git
+git clone https://github.com/kingofthepiates4/TransRoute.git
 cd TransRoute
